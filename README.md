@@ -1,5 +1,3 @@
-#   :^]
-
 <div align="center">
   <img height="100" src="https://gifdb.com/images/high/party-parrot-wagging-head-flag-of-france-yxh5d1tjp17kwxqg.gif"  />
 </div>
