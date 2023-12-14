@@ -1,5 +1,6 @@
 <div align="center">
   <img height="100" src="https://gifdb.com/images/high/party-parrot-wagging-head-flag-of-france-yxh5d1tjp17kwxqg.gif"  />
+  <br>
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=BonhommeMathis&theme=radical&locale=fr" alt="GitHub Streak" /></a>
 </div>
 
